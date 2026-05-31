@@ -55,7 +55,7 @@ pacific_northwest_flora = {
         "lifespan": "Perennial",
         "bloom_season": "Spring to early summer",
         "conservation_status": "Least Concern",
-        "photo_path": None,
+        "photo_path": "images/Dicentra-formosa-Pacific-Bleeding-Heart.jpg",
         "notes": "Attracts pollinators including bumblebees and butterflies"
     },
 
@@ -147,3 +147,5 @@ pacific_northwest_flora = {
         "notes": "The bark is fibrous and can be peeled in long strips - traditionally used for weaving hats, baskets, and clothing. One of the most culturally significant trees for Pacific Northwest Indigenous peoples."
     }
 }
+
+print(pacific_northwest_flora)

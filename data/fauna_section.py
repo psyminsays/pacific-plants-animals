@@ -138,4 +138,7 @@ pacific_northwest_fauna = {
     "photo_alt": "Townsend's chipmunk with brown body and distinctive grayish and reddish tail",
     "notes": "In the Oregon Coast Range, population density is higher where salal (Gaultheria shallon) is abundant."
     }
+
 }
+
+print(pacific_northwest_fauna)
