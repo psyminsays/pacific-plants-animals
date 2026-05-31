@@ -140,5 +140,3 @@ pacific_northwest_fauna = {
     }
 
 }
-
-print(pacific_northwest_fauna)

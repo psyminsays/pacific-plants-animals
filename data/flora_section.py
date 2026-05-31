@@ -147,5 +147,3 @@ pacific_northwest_flora = {
         "notes": "The bark is fibrous and can be peeled in long strips - traditionally used for weaving hats, baskets, and clothing. One of the most culturally significant trees for Pacific Northwest Indigenous peoples."
     }
 }
-
-print(pacific_northwest_flora)

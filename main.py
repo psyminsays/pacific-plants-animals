@@ -19,3 +19,9 @@ We acknowledge that:
 Always consult with tribal nations and language keepers for traditional 
 knowledge and appropriate usage.
 """
+
+from data.flora_section import *
+from data.fauna_section import *
+
+print(pacific_northwest_flora)
+print(pacific_northwest_fauna)
